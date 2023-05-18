@@ -1,0 +1,4 @@
+It was the best time of my life
+
+:wq
+
